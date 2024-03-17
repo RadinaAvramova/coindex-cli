@@ -1,2 +1,0 @@
-# coindex-cli
-coindex-cli
